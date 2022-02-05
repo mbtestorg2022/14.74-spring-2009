@@ -4,14 +4,168 @@ title: Assignments
 uid: 4512250d-75b9-eea0-4943-9b0898e8ee1a
 ---
 
-| ASSN # | TOPICS | FILES AND ARTICLES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} World Bank development report data - faces of poverty and familiarity with Stata {{< br >}}{{< br >}} Poverty, nutrition, and labor markets {{< br >}}{{< br >}} Essay exercise: a preview of material to come {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset01)) {{< br >}}{{< br >}} wbdr.dta ([DTA]({{< baseurl >}}/resources/wbdr)) {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Estimating the returns to schooling: ordinary least squares, Wald estimate, indirect least squares, and two-stage least squares {{< br >}}{{< br >}} Essay question {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset02)) {{< br >}}{{< br >}} supas.dta ([DTA]({{< baseurl >}}/resources/supas)) {{< br >}}{{< br >}} Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects, Pupil-teacher Ratios, and Teacher Incentives: Evidence from a Randomized Evaluation in Kenya." Mimeograph, Massachusetts Institute of Technology, September 2007. {{< br >}}{{< br >}} Glewwe, Paul, Michael Kremer, and Sylvie Moulin. "[Many Children Left Behind? Textbooks and Test Scores in Kenya](http://ideas.repec.org/p/nbr/nberwo/13300.html)." _American Economic Journal: Applied Economics_ 1, no. 1 (January 2009): 112-135. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Worms in Kenya {{< br >}}{{< br >}} Essay question on regression {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset03)) {{< br >}}{{< br >}} ted\_miguel\_worms.dta ([DTA]({{< baseurl >}}/resources/ted_miguel_worms)) {{< br >}}{{< br >}} Miguel, Edward, and Michael Kremer. "[Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities](http://ideas.repec.org/a/ecm/emetrp/v72y2004i1p159-217.html)." _Econometrica_ 72, no. 1 (January 2004): 159-217. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Sharecropping {{< br >}}{{< br >}} Land size and distribution of labor {{< br >}}{{< br >}} Savings: evidence from Thailand {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset04)) {{< br >}}{{< br >}} paxson.dta ([DTA]({{< baseurl >}}/resources/paxson)) {{< br >}}{{< br >}} Paxson, Christina. "[Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand](http://ideas.repec.org/a/aea/aecrev/v82y1992i1p15-33.html)." _American Economic Review_ 82, no. 1 (March 1992): 15-33. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Insurance and incentives {{< br >}}{{< br >}} Credit as insurance {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset05)) {{< br >}}{{< br >}} Udry, Christopher. "[Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy](http://ideas.repec.org/a/oup/wbecrv/v4y1990i3p251-69.html)." _World Bank Economic Review_ 4, no. 3 (September 1990): 251-269. {{< br >}}{{< br >}}  |
-| 6 | Credit market models | ([PDF]({{< baseurl >}}/resources/mit14_74s09_pset06)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+FILES AND ARTICLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+World Bank development report data - faces of poverty and familiarity with Stata
+
+Poverty, nutrition, and labor markets
+
+Essay exercise: a preview of material to come
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit14_74s09_pset01))
+
+wbdr.dta ([DTA]({{< baseurl >}}/resources/wbdr))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Estimating the returns to schooling: ordinary least squares, Wald estimate, indirect least squares, and two-stage least squares
+
+Essay question
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit14_74s09_pset02))
+
+supas.dta ([DTA]({{< baseurl >}}/resources/supas))
+
+Duflo, Esther, Pascaline Dupas, and Michael Kremer. "Peer Effects, Pupil-teacher Ratios, and Teacher Incentives: Evidence from a Randomized Evaluation in Kenya." Mimeograph, Massachusetts Institute of Technology, September 2007.
+
+Glewwe, Paul, Michael Kremer, and Sylvie Moulin. "[Many Children Left Behind? Textbooks and Test Scores in Kenya](http://ideas.repec.org/p/nbr/nberwo/13300.html)." _American Economic Journal: Applied Economics_ 1, no. 1 (January 2009): 112-135.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Worms in Kenya
+
+Essay question on regression
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit14_74s09_pset03))
+
+ted\_miguel\_worms.dta ([DTA]({{< baseurl >}}/resources/ted_miguel_worms))
+
+Miguel, Edward, and Michael Kremer. "[Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities](http://ideas.repec.org/a/ecm/emetrp/v72y2004i1p159-217.html)." _Econometrica_ 72, no. 1 (January 2004): 159-217.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sharecropping
+
+Land size and distribution of labor
+
+Savings: evidence from Thailand
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit14_74s09_pset04))
+
+paxson.dta ([DTA]({{< baseurl >}}/resources/paxson))
+
+Paxson, Christina. "[Using Weather Variability to Estimate the Response of Savings to Transitory Income in Thailand](http://ideas.repec.org/a/aea/aecrev/v82y1992i1p15-33.html)." _American Economic Review_ 82, no. 1 (March 1992): 15-33.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Insurance and incentives
+
+Credit as insurance
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit14_74s09_pset05))
+
+Udry, Christopher. "[Credit Markets in Northern Nigeria: Credit as Insurance in a Rural Economy](http://ideas.repec.org/a/oup/wbecrv/v4y1990i3p251-69.html)." _World Bank Economic Review_ 4, no. 3 (September 1990): 251-269.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Credit market models
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit14_74s09_pset06))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Presentations
 -------------
