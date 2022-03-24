@@ -59,7 +59,7 @@ Tables 1-2 and Figs. 2-5 in Subramanian, S., and A. Deaton. "The Demand for Food
 {{< tdclose >}}
 {{< tdopen >}}
 Education  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec05)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec06))
+([PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec05)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec06))
 {{< tdclose >}}
 {{< tdopen >}}
 Figure 2 in Duflo, E. "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment." _American Economic Review_ 91, no. 4 (2001): 795-813.
@@ -102,7 +102,7 @@ Gender discrimination
 {{< tdclose >}}
 {{< tdopen >}}
 Bargaining within families  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_74s09_lec14))
+([PDF]({{< baseurl >}}/resources/mit14_74s09_lec14))
 {{< tdclose >}}
 {{< tdopen >}}
 Tables 2 and 6 in Thomas, Duncan. "[Intra-household Resource Allocation: An Inferential Approach](http://ideas.repec.org/p/fth/yalegr/586.html)." _Journal of Human Resources_ 25, no. 4 (1990): 635-664.
@@ -126,7 +126,7 @@ In-class student presentations
 17-18
 {{< tdclose >}}
 {{< tdopen >}}
-Land (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_74s09_lec17))
+Land ([PDF]({{< baseurl >}}/resources/mit14_74s09_lec17))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -139,7 +139,7 @@ Land (![This resource may not render correctly in a screen reader.](/images/inac
 {{< tdclose >}}
 {{< tdopen >}}
 Savings  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec19)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec20))
+([PDF 1]({{< baseurl >}}/resources/mit14_74s09_lec19)) ([PDF 2]({{< baseurl >}}/resources/mit14_74s09_lec20))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -164,7 +164,7 @@ Insurance
 {{< tdclose >}}
 {{< tdopen >}}
 Credit markets  
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB]({{< baseurl >}}/resources/mit14_74s09_lec22))
+([PDF - 2.0MB]({{< baseurl >}}/resources/mit14_74s09_lec22))
 {{< tdclose >}}
 {{< tdopen >}}
  

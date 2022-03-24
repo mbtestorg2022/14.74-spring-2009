@@ -432,9 +432,9 @@ La Porta, R., F. L. de Silanes, A. Shleifer, and R. Vishny. "Law and Finance." _
 
 \*Acemoglu, D., S. Johnson, and J. Robinson. "The Colonial Origins of Comparative Development: An Empirical Investigation." _American Economic Review_ 91, no. 5 (2001): 1369-1401.
 
-Banerjee, A. V., and L. Iyer. "[History, Institutions and Economic Performance: The Legacy of Colonial Land Tenure Systems in India](http://ideas.repec.org/a/aea/aecrev/v95y2005i4p1190-1213.html)." _American Economic Review_ 95, no. 4 (2005): 1190-1213. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://globetrotter.berkeley.edu/macarthur/inequality/papers/BanerjeeLandTen.pdf))
+Banerjee, A. V., and L. Iyer. "[History, Institutions and Economic Performance: The Legacy of Colonial Land Tenure Systems in India](http://ideas.repec.org/a/aea/aecrev/v95y2005i4p1190-1213.html)." _American Economic Review_ 95, no. 4 (2005): 1190-1213. ([PDF](http://globetrotter.berkeley.edu/macarthur/inequality/papers/BanerjeeLandTen.pdf))
 
-Iyer, L. "The Long-term Impact of Colonial Rule: Evidence from India." Mimeograph, Massachusetts Institute of Technology, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.8847&rep=rep1&type=pdf))
+Iyer, L. "The Long-term Impact of Colonial Rule: Evidence from India." Mimeograph, Massachusetts Institute of Technology, 2003. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.8847&rep=rep1&type=pdf))
 
 Banerjee, A. V., and E. Duflo. "[Reputation Effects and the Limits of Contracting: A Study of the Indian Software Industry](http://www.mitpressjournals.org/doi/abs/10.1162/003355300554962)." _Quarterly Journal of Economics_ 115, no. 3 (2000): 989-1017.
 
