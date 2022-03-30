@@ -4,6 +4,7 @@ description: 'Supporting data file for a problem set on sharecropping, land size
   distribution of labor, and savings: evidence from Thailand.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-74-foundations-of-development-policy-spring-2009/577d5333f090dfc1e001f8904efc5172_paxson.dta
 file_type: application/octet-stream
+parent_uid: 4512250d-75b9-eea0-4943-9b0898e8ee1a
 resourcetype: Other
 title: paxson
 uid: 577d5333-f090-dfc1-e001-f8904efc5172
